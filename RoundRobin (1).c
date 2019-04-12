@@ -3,7 +3,6 @@
 #include<stdlib.h>
 struct process{
   int pId;
-
   int burstTime;
   int waitingTime;
   int turnAround;
